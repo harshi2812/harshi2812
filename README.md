@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ML projects**
 
-- 🌱 I’m currently learning **ML,Devops,Data Science**
+- 🌱 I’m currently learning **ML,Devops,Data Science,AI,CV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshi2812](https://github.com/harshi2812)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harshilhandoo321@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JbywyHs3e4B8O5MyJ1evtQbvPgxrIBCP/view?usp=sharing](https://drive.google.com/file/d/1JbywyHs3e4B8O5MyJ1evtQbvPgxrIBCP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QaRusyR-NCuYbdVjWKkGl-v6_jntK0sc/view?usp=sharing)
 
 - ⚡ Fun fact **I played Zonal-level Football and love Swimming and cricket.**
 
